@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @Anne120
 - 👀 I’m interested in software development
-- 🌱 I’m currently learning cyber security
 - 💞️ I’m looking to collaborate on new projects
 -
 
