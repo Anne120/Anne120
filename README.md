@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Anne120
-- 👀 I’m interested in software development
+- 👀 I’m interested in data science
 - 💞️ I’m looking to collaborate on new projects
 -
 
